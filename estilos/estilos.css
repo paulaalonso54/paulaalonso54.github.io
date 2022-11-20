@@ -18,10 +18,10 @@ body{
     align-content: center;
     align-self: center;
 }
-h4, h3, h2,h5{ 
+h4, h3, h2,h5,h6{ 
     font-size: larger;
 }
-h1,h2,h3,h4,h5{
+h1,h2,h3,h4,h5,h6{
     font-style:normal;
     background-color: aliceblue;
     font-stretch: expanded;
