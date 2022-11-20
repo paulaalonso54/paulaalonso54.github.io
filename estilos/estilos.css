@@ -1,3 +1,12 @@
-h1{
-    font-size: larger;
+h{
+    font-size: large;
+}
+table{
+    border: width black 1px solid;
+}
+th, td{
+border: black 1px solid
+}
+body{
+    background-color: rgb(11, 233, 159);
 }
